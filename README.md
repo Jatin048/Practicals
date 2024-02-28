@@ -1,1 +1,1 @@
-# Practicals
+# Agile methodology study material
