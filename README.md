@@ -21,7 +21,7 @@ This repository contains all the practicals performed in semester 4:
        (https://github.com/Jatin048/Practicals/blob/Git-and-Hub/Jatin_5.docx)
 
   2. ## Data analysis and algorithm
-     Branch:()
+     Branch:(https://github.com/Jatin048/Practicals/blob/Data-analysis-and-algorithm)
      * Exp 1.1 Implementation of Binary Search using the Divide & Conquer Approach.
        
        (https://github.com/Jatin048/Practicals/blob/DAA/binarySearch_Exp1.c)
