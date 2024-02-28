@@ -2,6 +2,8 @@
 This repository contains all the practicals performed in semester 4:   
 
   1. ## Git and Hub practicals
+     Branch:(https://github.com/Jatin048/Practicals/tree/Git-and-Hub)
+     
      * Exp 1.1 Installation of Git and creating repository
        
        (https://github.com/Jatin048/Practicals/blob/Git-and-Hub/Jatin.docx)
@@ -19,6 +21,7 @@ This repository contains all the practicals performed in semester 4:
        (https://github.com/Jatin048/Practicals/blob/Git-and-Hub/Jatin_5.docx)
 
   2. ## Data analysis and algorithm
+     Branch:()
      * Exp 1.1 Implementation of Binary Search using the Divide & Conquer Approach.
        
        (https://github.com/Jatin048/Practicals/blob/DAA/binarySearch_Exp1.c)
@@ -36,6 +39,7 @@ This repository contains all the practicals performed in semester 4:
        (https://github.com/Jatin048/Practicals/blob/DAA/jobScheduling_Exp5.cpp)
 
   3. ## Agile methodology
+     Branch:()
      * Unit 1
        
        (https://github.com/Jatin048/Practicals/blob/Agile-methodology/Agile_Unit_1.pdf)
