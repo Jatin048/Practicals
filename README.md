@@ -1,1 +1,1 @@
-# Practicals
+# Git and Hub practicls
