@@ -39,8 +39,8 @@ This repository contains all the practicals performed in semester 4:
        (https://github.com/Jatin048/Practicals/blob/DAA/jobScheduling_Exp5.cpp)
 
   3. ## Agile methodology
-     Branch:()
-     * Unit 1
+     Branch:(https://github.com/Jatin048/Practicals/tree/Agile-methodology)
+     * Unit 1 Lecture
        
        (https://github.com/Jatin048/Practicals/blob/Agile-methodology/Agile_Unit_1.pdf)
      * Questions
