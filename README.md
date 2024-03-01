@@ -1,7 +1,7 @@
 # Practicals  
 This repository contains all the practicals performed in semester 4:   
 
-  1. ## Git and Hub practicals
+  1. ## Git and GitHub practicals
      Branch:(https://github.com/Jatin048/Practicals/tree/Git-and-Hub)
      
      * Exp 1.1 Installation of Git and creating repository
