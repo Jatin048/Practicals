@@ -28,6 +28,7 @@ This repository contains all the practicals performed in semester 4:
      * Exp 2.3 Creation of forks
        In this we fork a repository (remote) and make a clone of it on our local system then we edit a file in it and push back the changes from local to remote forked repository.
 
+       (https://github.com/Jatin048/Practicals/blob/Git-and-Hub/Jatin_6.docx)
       
 
   2. ## Data analysis and algorithm
